@@ -1,0 +1,1 @@
+{"uuid":"6929a143-39c2-4061-96b3-7b638a734faa","name":"testing1.AutomateJsonArray","children":["c3f7f148-1cf4-4c60-9724-33671c429d3a"],"befores":[{"name":"beforeclass","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1675420763420,"stop":1675420764258}],"afters":[],"start":1675420763373,"stop":1675420767977}

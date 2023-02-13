@@ -1,0 +1,26 @@
+HTTP/1.1 404 Not Found
+Date: Tue, 15 Nov 2022 06:18:39 GMT
+Content-Type: application/json
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-Powered-By: PHP/8.1.0
+Cache-Control: no-cache, private
+Access-Control-Allow-Origin: *
+Via: 1.1 varnish (Varnish/6.3), 1.1 varnish (Varnish/6.3)
+X-Cache-Hits: 0
+X-Cache: MISS
+Age: 0
+Vary: 
+CF-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=q7x2Y%2BmhYGKjFCti5tKB8aVG1nBsDFEodqi%2BjQOz23%2BEgJ%2F3qc2sNji2XnIgA%2BUxkj%2FOGHIsAI5s%2F30f96vKP2U%2FFQn0oeJZXsRbqNMtuXtlLHV6a21x9ivx"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 76a5dee99f56bbf7-FRA
+Content-Encoding: gzip
+alt-svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+
+{
+    "status": "error",
+    "message": "No route found for \"GET http://dog.ceo/api/breeds\" with code: 0",
+    "code": 404
+}

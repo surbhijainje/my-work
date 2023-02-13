@@ -1,0 +1,24 @@
+Request method:	GET
+Request URI:	https://world.openpetfoodfacts.org/api
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+HTTP/1.1 200 OK
+Server: nginx/1.10.3
+Date: Wed, 16 Nov 2022 03:19:24 GMT
+Content-Type: text/x-perl
+Content-Length: 0
+Connection: keep-alive
+X-Frame-Options: DENY
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-XSS-Protection: 1; mode=block
+X-Request-ID: GGGojn5HGBCd5xpR
+Strict-Transport-Security: max-age=63072000; includeSubdomains
+X-Content-Type-Options: nosniff

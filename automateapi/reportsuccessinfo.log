@@ -1,0 +1,383 @@
+Request method:	GET
+Request URI:	https://dog.ceo/api/breeds/list/all
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+HTTP/1.1 200 OK
+Date: Wed, 16 Nov 2022 03:19:20 GMT
+Content-Type: application/json
+Content-Length: 959
+Connection: keep-alive
+X-Powered-By: PHP/8.1.0
+Access-Control-Allow-Origin: *
+Content-Encoding: gzip
+Via: 1.1 varnish (Varnish/6.3), 1.1 varnish (Varnish/6.3)
+Cache-Control: max-age=1800
+X-Cache-Age: 3617
+X-Cache-Hits: 966
+X-Cache: HIT
+Accept-Ranges: bytes
+Age: 0
+Vary: Accept-Encoding
+CF-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=O8bU8nkzmJB0GNw%2BLhXKC%2BuaYs%2BAJuK%2F%2Bnfwmoa%2F8JISBClM772OkHWA7tqx5%2B3b5sE2KIdhrwnK2RW1ejXu5skSMeMKJaP74qp55wj%2FneWfSnSqtHpGYcZx"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 76ad15a199e39bd0-FRA
+alt-svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+
+{
+    "message": {
+        "affenpinscher": [
+            
+        ],
+        "african": [
+            
+        ],
+        "airedale": [
+            
+        ],
+        "akita": [
+            
+        ],
+        "appenzeller": [
+            
+        ],
+        "australian": [
+            "shepherd"
+        ],
+        "basenji": [
+            
+        ],
+        "beagle": [
+            
+        ],
+        "bluetick": [
+            
+        ],
+        "borzoi": [
+            
+        ],
+        "bouvier": [
+            
+        ],
+        "boxer": [
+            
+        ],
+        "brabancon": [
+            
+        ],
+        "briard": [
+            
+        ],
+        "buhund": [
+            "norwegian"
+        ],
+        "bulldog": [
+            "boston",
+            "english",
+            "french"
+        ],
+        "bullterrier": [
+            "staffordshire"
+        ],
+        "cattledog": [
+            "australian"
+        ],
+        "chihuahua": [
+            
+        ],
+        "chow": [
+            
+        ],
+        "clumber": [
+            
+        ],
+        "cockapoo": [
+            
+        ],
+        "collie": [
+            "border"
+        ],
+        "coonhound": [
+            
+        ],
+        "corgi": [
+            "cardigan"
+        ],
+        "cotondetulear": [
+            
+        ],
+        "dachshund": [
+            
+        ],
+        "dalmatian": [
+            
+        ],
+        "dane": [
+            "great"
+        ],
+        "deerhound": [
+            "scottish"
+        ],
+        "dhole": [
+            
+        ],
+        "dingo": [
+            
+        ],
+        "doberman": [
+            
+        ],
+        "elkhound": [
+            "norwegian"
+        ],
+        "entlebucher": [
+            
+        ],
+        "eskimo": [
+            
+        ],
+        "finnish": [
+            "lapphund"
+        ],
+        "frise": [
+            "bichon"
+        ],
+        "germanshepherd": [
+            
+        ],
+        "golden": [
+            
+        ],
+        "greyhound": [
+            "italian"
+        ],
+        "groenendael": [
+            
+        ],
+        "havanese": [
+            
+        ],
+        "hound": [
+            "afghan",
+            "basset",
+            "blood",
+            "english",
+            "ibizan",
+            "plott",
+            "walker"
+        ],
+        "husky": [
+            
+        ],
+        "keeshond": [
+            
+        ],
+        "kelpie": [
+            
+        ],
+        "komondor": [
+            
+        ],
+        "kuvasz": [
+            
+        ],
+        "labradoodle": [
+            
+        ],
+        "labrador": [
+            
+        ],
+        "leonberg": [
+            
+        ],
+        "lhasa": [
+            
+        ],
+        "malamute": [
+            
+        ],
+        "malinois": [
+            
+        ],
+        "maltese": [
+            
+        ],
+        "mastiff": [
+            "bull",
+            "english",
+            "tibetan"
+        ],
+        "mexicanhairless": [
+            
+        ],
+        "mix": [
+            
+        ],
+        "mountain": [
+            "bernese",
+            "swiss"
+        ],
+        "newfoundland": [
+            
+        ],
+        "otterhound": [
+            
+        ],
+        "ovcharka": [
+            "caucasian"
+        ],
+        "papillon": [
+            
+        ],
+        "pekinese": [
+            
+        ],
+        "pembroke": [
+            
+        ],
+        "pinscher": [
+            "miniature"
+        ],
+        "pitbull": [
+            
+        ],
+        "pointer": [
+            "german",
+            "germanlonghair"
+        ],
+        "pomeranian": [
+            
+        ],
+        "poodle": [
+            "medium",
+            "miniature",
+            "standard",
+            "toy"
+        ],
+        "pug": [
+            
+        ],
+        "puggle": [
+            
+        ],
+        "pyrenees": [
+            
+        ],
+        "redbone": [
+            
+        ],
+        "retriever": [
+            "chesapeake",
+            "curly",
+            "flatcoated",
+            "golden"
+        ],
+        "ridgeback": [
+            "rhodesian"
+        ],
+        "rottweiler": [
+            
+        ],
+        "saluki": [
+            
+        ],
+        "samoyed": [
+            
+        ],
+        "schipperke": [
+            
+        ],
+        "schnauzer": [
+            "giant",
+            "miniature"
+        ],
+        "segugio": [
+            "italian"
+        ],
+        "setter": [
+            "english",
+            "gordon",
+            "irish"
+        ],
+        "sharpei": [
+            
+        ],
+        "sheepdog": [
+            "english",
+            "shetland"
+        ],
+        "shiba": [
+            
+        ],
+        "shihtzu": [
+            
+        ],
+        "spaniel": [
+            "blenheim",
+            "brittany",
+            "cocker",
+            "irish",
+            "japanese",
+            "sussex",
+            "welsh"
+        ],
+        "springer": [
+            "english"
+        ],
+        "stbernard": [
+            
+        ],
+        "terrier": [
+            "american",
+            "australian",
+            "bedlington",
+            "border",
+            "cairn",
+            "dandie",
+            "fox",
+            "irish",
+            "kerryblue",
+            "lakeland",
+            "norfolk",
+            "norwich",
+            "patterdale",
+            "russell",
+            "scottish",
+            "sealyham",
+            "silky",
+            "tibetan",
+            "toy",
+            "welsh",
+            "westhighland",
+            "wheaten",
+            "yorkshire"
+        ],
+        "tervuren": [
+            
+        ],
+        "vizsla": [
+            
+        ],
+        "waterdog": [
+            "spanish"
+        ],
+        "weimaraner": [
+            
+        ],
+        "whippet": [
+            
+        ],
+        "wolfhound": [
+            "irish"
+        ]
+    },
+    "status": "success"
+}

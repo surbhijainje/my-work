@@ -1,0 +1,15 @@
+{
+	"employees": [{
+			"id": 90,
+			"name": "Arshad",
+			"age": 89
+		},
+
+		{
+			"id": "89",
+			"name": "surbhi"
+		}
+	],
+	"cars": ["honda", "zen"],
+	"subject": ["hindi", "compsc."]
+}

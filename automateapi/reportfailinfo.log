@@ -1,0 +1,37 @@
+Request method:	GET
+Request URI:	https://dog.ceo/api/breeds
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+HTTP/1.1 404 Not Found
+Date: Wed, 16 Nov 2022 03:19:21 GMT
+Content-Type: application/json
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-Powered-By: PHP/8.1.0
+Cache-Control: no-cache, private
+Access-Control-Allow-Origin: *
+Via: 1.1 varnish (Varnish/6.3), 1.1 varnish (Varnish/6.3)
+X-Cache-Hits: 0
+X-Cache: MISS
+Age: 0
+Vary: 
+CF-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=Vi9RHH5tG70%2FrW%2F4X2%2Bkpu%2F%2FOFu2sfdegD3s7umpYf3EkNMKAGQ%2BuxiSGo75BRZJ4%2FoFGCPZXFU4awEH6Vx1qkgpJNsrTIFrhmcSb%2B56QmZDJ%2FZ8w5QGbZwH"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 76ad15a758ecbbc7-FRA
+Content-Encoding: gzip
+alt-svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+
+{
+    "status": "error",
+    "message": "No route found for \"GET http://dog.ceo/api/breeds\" with code: 0",
+    "code": 404
+}
